@@ -1,0 +1,15 @@
+{
+  "name": "al-midtermdecks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx --no-html"
+  },
+  "devDependencies": {
+    "mdx-deck": "1.7.1",
+    "mdx-deck-code-surfer": "0.4.1",
+    "raw-loader": "0.5.1"
+  }
+}
