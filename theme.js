@@ -11,5 +11,6 @@ export default {
     text: '#eee',
     background: '#011',
     link: '#0ff',
-  }
+
+  },
 }
